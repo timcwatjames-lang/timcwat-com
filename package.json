@@ -1,0 +1,13 @@
+{
+  "name": "jamb-mastery-pro",
+  "version": "3.0.0",
+  "private": true,
+  "description": "JAMB/UTME exam preparation web app with quizzes, flashcards, formula sheets, and mock exams",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "node --check index.js && node --check data.js"
+  },
+  "keywords": ["jamb", "utme", "exam", "quiz", "education", "nigeria"],
+  "author": "",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timcwat-com-e7d1.vercel.app/sitemap.xml
